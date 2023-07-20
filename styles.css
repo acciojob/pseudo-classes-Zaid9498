@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+*{
+	background-color:skyblue;
+}
+#p1{
+	color:white;
+	background-color:black;
+}
+#p3{
+	color:red;
+}
+#l1{
+	background-color:white; width:50%;
+}
+#l2{
+	background-color:slategray; width:50%;
+}
+#l3{
+	background-color:pink; width:50%;
+}
+#l4{
+	background-color:slategray; width:50%;
+}
+#l5{
+	background-color:white; width:50%;
+}
+
